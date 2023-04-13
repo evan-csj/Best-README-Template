@@ -239,8 +239,8 @@ The site is for a company to manage the inventory of stock across multiple wareh
 * [Jason](https://github.com/projectyang)
 
 ## Please add .env by following template
-PORT=8080\
-BACKEND_URL=http://localhost \
-DB_LOCAL_DBNAME=instock\
-DB_LOCAL_USER=root\
-DB_LOCAL_PASSWORD=rootroot
+PORT=8080 <br/>
+BACKEND_URL=http://localhost <br/>
+DB_LOCAL_DBNAME=instock <br/>
+DB_LOCAL_USER=root <br/>
+DB_LOCAL_PASSWORD=rootroot 
